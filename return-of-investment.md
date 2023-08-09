@@ -76,6 +76,6 @@ Considered a more advanced approach, the efficiency in ROI can be calculated by 
 - **Automated TC Maintenance** = (Maintenance time * Period of ROI) / 8
 - **Manual Execution** = (Manual test execution time * Number of manual test cases * Period of ROI) / 8
 
-- _**Note:**_ the Period of ROI refers to the time period for what the ROI is calculated.
+_**Note:**_ the Period of ROI refers to the time period for what the ROI is calculated.
 
 
