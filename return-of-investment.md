@@ -70,11 +70,11 @@ The very basic formula to calculate ROI is to **deduct benefits from costs, divi
 
 Considered a more advanced approach, the efficiency in ROI can be calculated by focusing on different points:
 
-- Automated TC Development = (Hourly automation time per test * Number of automated test cases) / 8
-- Automated TC Execution = (Automated test execution time per test * Number of automated test cases * Period of ROI) / 18
-- Automated TC Analysis  = (Test Analysis time * Period of ROI) / 8
-- Automated TC Maintenance = (Maintenance time * Period of ROI) / 8
-- Manual Execution = (Manual test execution time * Number of manual test cases * Period of ROI) / 8
+- **Automated TC Development** = (Hourly automation time per test * Number of automated test cases) / 8
+- **Automated TC Execution** = (Automated test execution time per test * Number of automated test cases * Period of ROI) / 18
+- **Automated TC Analysis**  = (Test Analysis time * Period of ROI) / 8
+- **Automated TC Maintenance** = (Maintenance time * Period of ROI) / 8
+- **Manual Execution** = (Manual test execution time * Number of manual test cases * Period of ROI) / 8
 
 - _**Note:**_ the Period of ROI refers to the time period for what the ROI is calculated.
 
