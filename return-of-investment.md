@@ -66,7 +66,7 @@ Here are few tips/topics that if - well addressed - can play a major factor in i
 
 The very basic formula to calculate ROI is to **deduct benefits from costs, divide them by costs, and multiply by 100**.
 
-## Efficiency of ROI
+### Efficiency of ROI
 
 Considered a more advanced approach, the efficiency in ROI can be calculated by focusing on different points:
 
